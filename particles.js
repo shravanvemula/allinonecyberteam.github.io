@@ -14,7 +14,7 @@ var pJS = function(tag_id, params){
   /* particles.js variables with default values */
   this.pJS = {
     canvas: {
-      el: canvas_el,
+     helooo
       w: canvas_el.offsetWidth,
       h: canvas_el.offsetHeight
     },
